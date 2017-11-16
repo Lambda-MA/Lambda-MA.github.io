@@ -1,0 +1,9 @@
+---
+title: Primeiro encontro
+---
+
+Tivemos hoje o primeiro encontro da galera do lambda-MA. A palestra foi
+sobre uma introdução à programação funcional com Haskell. Se você perdeu
+o primeiro dia pode dar uma olhada nos [slides](https://speakerdeck.com/mschonfinkel/lambdama-haskell-1).
+
+
